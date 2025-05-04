@@ -139,6 +139,9 @@ span {
   border-radius: 50%;
   width: 450px;
 }
+#menu-icon {
+  display: none;
+}
 
 ::-webkit-scrollbar {
   width: 15px;
